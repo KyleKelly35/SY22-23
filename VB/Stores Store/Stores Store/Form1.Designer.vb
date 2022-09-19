@@ -44,29 +44,29 @@ Partial Class Form1
         '
         'Button1
         '
-        Me.Button1.Location = New System.Drawing.Point(662, 77)
+        Me.Button1.Location = New System.Drawing.Point(617, 77)
         Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(75, 23)
+        Me.Button1.Size = New System.Drawing.Size(120, 23)
         Me.Button1.TabIndex = 0
-        Me.Button1.Text = "Form4"
+        Me.Button1.Text = "Air MAGS"
         Me.Button1.UseVisualStyleBackColor = True
         '
         'Button2
         '
-        Me.Button2.Location = New System.Drawing.Point(662, 19)
+        Me.Button2.Location = New System.Drawing.Point(534, 19)
         Me.Button2.Name = "Button2"
-        Me.Button2.Size = New System.Drawing.Size(75, 23)
+        Me.Button2.Size = New System.Drawing.Size(203, 23)
         Me.Button2.TabIndex = 1
-        Me.Button2.Text = "Form 2"
+        Me.Button2.Text = "Ben and Jerry and Space Jam"
         Me.Button2.UseVisualStyleBackColor = True
         '
         'Button3
         '
-        Me.Button3.Location = New System.Drawing.Point(662, 48)
+        Me.Button3.Location = New System.Drawing.Point(514, 48)
         Me.Button3.Name = "Button3"
-        Me.Button3.Size = New System.Drawing.Size(75, 23)
+        Me.Button3.Size = New System.Drawing.Size(223, 23)
         Me.Button3.TabIndex = 2
-        Me.Button3.Text = "Form 3"
+        Me.Button3.Text = "Argon Dunks and Phantom Dunks"
         Me.Button3.UseVisualStyleBackColor = True
         '
         'Button4
@@ -184,7 +184,7 @@ Partial Class Form1
         'PictureBox1
         '
         Me.PictureBox1.Image = Global.Stores_Store.My.Resources.Resources.nike
-        Me.PictureBox1.Location = New System.Drawing.Point(375, 83)
+        Me.PictureBox1.Location = New System.Drawing.Point(353, 77)
         Me.PictureBox1.Name = "PictureBox1"
         Me.PictureBox1.Size = New System.Drawing.Size(243, 168)
         Me.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
